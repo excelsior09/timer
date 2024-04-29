@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "526104391109",
+    "firebase_url": "https://auth-aac8b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "auth-aac8b",
+    "storage_bucket": "auth-aac8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526104391109:android:9019c8b55d0ad031b4efac",
+        "android_client_info": {
+          "package_name": "com.example.auth_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2X2Wk6bPqvO44FCUN7wOPmSjUFgkiqJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526104391109:android:d549e7d0b302f0c7b4efac",
+        "android_client_info": {
+          "package_name": "com.example.timer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2X2Wk6bPqvO44FCUN7wOPmSjUFgkiqJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
